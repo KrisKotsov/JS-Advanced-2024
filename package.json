@@ -1,0 +1,25 @@
+{
+  "name": "js-advanced-2024",
+  "version": "1.0.0",
+  "description": "Next course in learning JS at SoftUni",
+  "main": "findApartment.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisKotsov/JS-Advanced-2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisKotsov/JS-Advanced-2024/issues"
+  },
+  "homepage": "https://github.com/KrisKotsov/JS-Advanced-2024#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
